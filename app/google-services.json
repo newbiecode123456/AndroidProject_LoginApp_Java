@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630419885878",
+    "project_id": "fir-loginapp-ac600",
+    "storage_bucket": "fir-loginapp-ac600.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630419885878:android:1a5621ff6cefc752352d97",
+        "android_client_info": {
+          "package_name": "com.example.myloginapp100"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1FD4sjldoxdTpwuhr0hSvx1mvTzlyEr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
